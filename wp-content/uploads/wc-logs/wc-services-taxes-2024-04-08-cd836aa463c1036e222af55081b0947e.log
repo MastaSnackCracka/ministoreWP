@@ -1,0 +1,5 @@
+2024-04-08T17:31:13+00:00 NOTICE Error retrieving the tax rates. Received (missing_token): Unable to send request to WooCommerce Shipping & Tax server. WordPress.com token is missing (WCS Tax) CONTEXT: {"_legacy":true}
+2024-04-08T17:33:45+00:00 NOTICE Error retrieving the tax rates. Received (missing_token): Unable to send request to WooCommerce Shipping & Tax server. WordPress.com token is missing (WCS Tax) CONTEXT: {"_legacy":true}
+2024-04-08T17:33:51+00:00 NOTICE Error retrieving the tax rates. Received (missing_token): Unable to send request to WooCommerce Shipping & Tax server. WordPress.com token is missing (WCS Tax) CONTEXT: {"_legacy":true}
+2024-04-08T17:33:52+00:00 NOTICE Error retrieving the tax rates. Received (missing_token): Unable to send request to WooCommerce Shipping & Tax server. WordPress.com token is missing (WCS Tax) CONTEXT: {"_legacy":true}
+2024-04-08T17:48:02+00:00 NOTICE Error retrieving the tax rates. Received (missing_token): Unable to send request to WooCommerce Shipping & Tax server. WordPress.com token is missing (WCS Tax) CONTEXT: {"_legacy":true}
